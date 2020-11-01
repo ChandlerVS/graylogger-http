@@ -9,6 +9,8 @@
     "build": "npm run clean && tsc",
     "test": "mocha -r ts-node/register src/**/*.spec.ts"
   },
+  "homepage": "https://github.com/ChandlerVS/graylogger-http",
+  "repository": "https://github.com/ChandlerVS/graylogger-http",
   "author": {
     "name": "Chandler Van Scoy",
     "email": "chandler@chandlervanscoy.com",
